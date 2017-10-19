@@ -7,7 +7,7 @@ How could having easy access to the entire history of a file make you a more eff
 Having easy access to the entire history of a file would be beneficial for allowing you to return to versions after an error or to try a different design choice.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-When you can choose what is saved, you can decide what you want to save. When something is saved automtaically and you didn't want it to save because you were just toying around. You have to go back and delete that shit.
+When you can choose what is saved, you can decide what you want to save. When something is saved automtaically and you didn't want it to save because you were just toying around. You have to go back and delete it.
 
 How can you use the commands git log and git diff to view the history of files?
 You use git log on the current file and you can scroll down until you hit the end or your target destination. Press q to end the log then after that you can do git diff followed by the two commits you want to compare.

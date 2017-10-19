@@ -1,18 +1,25 @@
 What happens when you initialize a repository? Why do you need to do it?
+It makes a .git hidden file accessible viewable with ls -a command. Do git status to make sure the .git file is present when initing a repo. You need to do it for the hidden files
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+The staging area is different from the working directory and the repo as it allows you to double check your work, order the gits logically, ect.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+
+How can you use the staging area to make sure you have one commit per logical change?
+Because it allows you to pull out things that are logically connected and then commit them in a measured way for each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches kick ass and they help because you literally make a new version of the game that is like miosis from the other old game and then you can change the branches and remerge the branches.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams show you where the branches start and end and in what relation they have to each other.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+When you merge two branches, as long as there is no conflict, the code that is unique to each branch combines into whatever branch is currently checked out. In the diagram, we point the merged branch back to the old two, 
+keeping the branch that is checked out and deleting the marker of the one that has merged. 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The machine would have to guess more often what route you want to go.
