@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+When you are working from multiple machienes or in a partnership with multiple people. Another case to envision would be if you know your home computer is having problems and you want to have a remote backup.
