@@ -12,3 +12,7 @@ paths that can be taken within a repo or project.
 You would fork something when you want to begin a project or work with material created by someone else using their already existing code. You would copy something in order to mess with it on one of your own machienes. 
 Finally, one would use branches when one wants to explore different options or experiments with parts of your code without interfering with other paths on the code. 
 Clone also sets up a origin repo automatically.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So you can compare it to future commits and also to have the backup of when you first cloned the repo available.
+
