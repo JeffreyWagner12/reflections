@@ -4,3 +4,10 @@ When you are working from multiple machienes or in a partnership with multiple p
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you could be working on experimental branches on your own machiene that you don't want gitHub to interfere with. Also, you want to maintain the control over the versions of your file and having automatic updates 
 could mess that up. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A clone is when you copy a repo from GitHub onto your local repo. Fork is copying something from another GitHub repo onto your GitHub repo while giving the creator credit for the work, and branches are different logical
+paths that can be taken within a repo or project. 
+
+You would fork something when you want to begin a project or work with material created by someone else using their already existing code. You would copy something in order to mess with it on one of your own machienes. 
+Finally, one would use branches when one wants to explore different options or experiments with parts of your code without interfering with other paths on the code. 
