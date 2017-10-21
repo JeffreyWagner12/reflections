@@ -16,3 +16,6 @@ Clone also sets up a origin repo automatically.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So you can compare it to future commits and also to have the backup of when you first cloned the repo available.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+There are other version control systems, filesharing or delivering methods, or techniques to do what GitHub does but GitHub is much easier because it features the qualities of these techniques in a centralized location.
+You would have to spend a lot more time in person developing or on the phone to coordinate without GitHub.
